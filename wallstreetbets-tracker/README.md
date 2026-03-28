@@ -1,4 +1,4 @@
 # wallstreetbets-tracker
 
-This was creted with the help of tutorial creted by https://twitter.com/PartTimeLarry
+This was creted with the help of tutorial created by https://twitter.com/PartTimeLarry
 
